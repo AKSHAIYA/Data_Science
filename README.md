@@ -1,1 +1,1 @@
-# Data_Science
+# Black Friday sales prediction using KNN
